@@ -1,0 +1,9 @@
+{
+  "name": "semionvino/acf-gutenberg-paster",
+  "description": "ACF Gutenberg blocks smart paster",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
